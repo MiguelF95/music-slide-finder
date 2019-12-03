@@ -13,8 +13,8 @@ Simple Python script that takes powerpoint slide titles as input and returns the
  - string
 
 **TODO:**
- ~~- Relax slide title match constraints to allow case and delimiter mistakes~~
- ~~- Return list of slide titles not found~~
- ~~- Allow user to input all slide titles at once, separated by either newline or comma~~ (Only supports separation by new line)
+ - ~~Relax slide title match constraints to allow case and delimiter mistakes~~
+ - ~~Return list of slide titles not found~~
+ - ~~Allow user to input all slide titles at once, separated by either newline or comma~~ (Only supports separation by new line)
  - Relax slide title match constraints to allow for spelling mistakes
  - Allow user to choose a specific .pptx file
